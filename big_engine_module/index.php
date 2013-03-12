@@ -1,3 +1,3 @@
 <?php
-	echo 'Another module.';
+	echo 'Another module, but modified.';
 ?>
