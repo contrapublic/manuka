@@ -1,3 +1,3 @@
 <?php
-	echo 'A root file for production';
+	echo 'A root file for staging.';
 ?>
